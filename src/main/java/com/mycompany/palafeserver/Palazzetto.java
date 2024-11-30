@@ -9,5 +9,5 @@ package com.mycompany.palafeserver;
  * @author marzola.s
  */
 public class Palazzetto {
-    
+    //t
 }
